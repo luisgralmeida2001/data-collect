@@ -82,3 +82,4 @@ df
 # %%
 df[~df['de nascimento'].isna()]
 # %%
+df.to_parquet('dados_re.parquet')
