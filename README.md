@@ -1,4 +1,4 @@
-# 📊 Projeto End-to-End de Engenharia de Dados
+# 📊 Projeto de Engenharia de Dados
 
 Este projeto tem como objetivo explorar todo o processo de construção de um pipeline de dados, desde a coleta de informações de diferentes fontes até a ingestão e armazenamento em um DataLake. Ele abrange as principais etapas de um fluxo de Engenharia de Dados, utilizando diversas ferramentas e técnicas essenciais para o tratamento e processamento de dados.
 
